@@ -8,4 +8,4 @@ A 7 minutes quick workout android app coded in kotlin. The app has a beautiful U
 ## Installation
 
 Download the project either by git clone or download and extract the zip, then load the project in your android studio. You are free to do the modifications as your wish
-You can even directly try app by installing in your phone, the apk file is in "releases" folder, or you can get it by <a href="https://github.com/gtiwari912/Workout-app/blob/master/releases/7MinutesWorkoutApp.apk">clicking here.</a> 
+You can even directly try app by installing in your phone, the apk file is in "releases" folder, or you can get it by <a href="https://github.com/molecule03/Workout-app/blob/master/releases/7MinutesWorkoutApp.apk">clicking here.</a> 
